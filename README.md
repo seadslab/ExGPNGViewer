@@ -1,4 +1,6 @@
 # ExG PNG Viewer
+ExG PNG Viewer is a simple and user-friendly viewer for PNG images.
+
 
 ## Application privacy policy
 -This application does not collect or publish any personal information.
