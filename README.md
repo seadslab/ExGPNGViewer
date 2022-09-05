@@ -1,6 +1,13 @@
 # ExG PNG Viewer
 ExG PNG Viewer is a simple and user-friendly PNG image viewer.
 
+Excellent display capability and various information for PNG file
+
+- Extensive scaling capability from 1% to 10,000%.
+- Easily configurable canvas appearance
+- Support for displaying palette contents of indexed colors
+- Support drag & drop file open
+
 
 ## Application privacy policy
 -This application does not collect or publish any personal information.
