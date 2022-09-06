@@ -18,7 +18,7 @@ Excellent display capability and various information for PNG file
 SEA Ds Lab. (hereinafter referred to as 'SDL') grants you the right to use the software'ExG PNG Viwer' provided and installed by downloading or other means (hereinafter referred to as 'the Software') under the following terms and conditions.
 This License Agreement is a general license agreement that is effective for the first use of the Software.
 
-1. COPYRIGHT
+1.COPYRIGHT
 
 All intellectual property rights, including copyrights, related to the Software belong to SDL or are duly licensed by a third party, and the Software is protected by copyright laws and related treaties in the country of use and in other countries.
 
