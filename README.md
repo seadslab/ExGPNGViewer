@@ -8,6 +8,10 @@ Excellent display capability and various information for PNG file
 - Support for displaying palette contents of indexed colors
 - Support drag & drop file open
 
+## Install
+You can get this app from Microsoft Store.
+https://www.microsoft.com/store/productId/9NKBJSQFD00H
+
 
 ## Application privacy policy
 -This application does not collect or publish any personal information.
